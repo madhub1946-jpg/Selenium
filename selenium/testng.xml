@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="TestNGScriptes.TestScript4"/>
+      <class name="TestNGScriptes.TestScript3"/>
+      <class name="TestNGScriptes.TestScrip2"/>
+      <class name="TestNGScriptes.TestScript5"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
